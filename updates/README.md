@@ -1,3 +1,3 @@
 # Advanced Data Analytics for Management Support
 
-No course is perfect. We continuously try to update and improve our materials. This folder contains **preliminary versions** of new notebooks, which will become part of the course. Students are welcome to check out our activities. Comments are also welcome. However, for now, all materials are offered only as additional information/content. 
+No course is perfect. We continuously try to update and improve our materials. This folder contains **preliminary versions** of new notebooks, which will eventually become part of the course. Students are welcome to check out our activities. Comments are also welcome. However, for now, all materials are offered only as additional information/content. 
