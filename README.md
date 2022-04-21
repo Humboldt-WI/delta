@@ -10,11 +10,16 @@ textual data and other complex data such as sequences and images.
 Topics covered in the module include but are not limited to:
 
 - Fundamentals of artificial neural networks
-- Recurrent networks for sequential data processing with applications in finance
-- A primer in generative models and adversarial learning
-- Fundamentals of textual data analysis
-- Neural network-based text embeddings: word2vec and cousins
-- Convolutional neural networks for image analysis
+- Fundamentals of natural language processing (NLP)
+- Neural word embeddings: word2vec and cousins
+- Recurrent networks for sequential data processing 
+  - Methodological principles of RNNs
+  - RNN applications in finance and language modeling
+- Text classification and sentiment analysis
+- Convolutional neural networks for image and text analysis
+- NLP transfer learning
+- Attention and transformers
 
-The repository provides access to the Jupyter notebooks of the tutorial sessions and some Python scripts, which
-were used to created to support the lecture.  
+The repository provides Jupyter notebooks that revisit concepts covered in the lecture and demonstrate their application using Python. Corresponding notebooks are available in the folder **demos**. 
+
+Anoter folder called **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The exercises related to the lecture chapter and the demo notebooks. The idea of the exercises is that students try to **solve the programming tasks themselves or with peers in their study group**. Further, weekly tutorial sessions offer an opportunity to ask questions and discuss the exercise tasks with your lecturer. More detailed information on the coures format, organization, and logistics is available on the [ADAMS Moodle page](https://moodle.hu-berlin.de/course/view.php?id=103703). That page also provides slides for lecture sessions and video recordings. 
