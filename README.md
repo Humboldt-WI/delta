@@ -21,34 +21,34 @@ Tutorial 1: Thu, 16.15 - 17.45
 Tutorial 2: Fri, 12.15 - 14.15
 
 ## Outline
-The outline of the module is as follows:
+The outline of the module is as follows:<br>
 - Introduction
-- Foundations of artificial neural networks
+  - Course organization and logistics
+  - (Supervised) Machine learning revisited \[ [Python demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Python-Primer.ipynb), [EDA demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Pandas-and-EDA.ipynb), [SKlearn demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Python_Machine_Learning.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut1_recap_bads_student.ipynb)\]
+- Foundations of artificial neural networks 
   - The perceptron model
-  - Neural network training using backpropagation and gradient descent
-  - Tweaking and tuning feedforward neural networks 
-- Foundations of natural language processing
-  - NLP pre-processing pipeline, the bag of words model, and extensions
-  - Word embeddings and the Word-to-Vec algorithm
+  - Neural network training using backpropagation and gradient descent \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/fnn/nn_foundations.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut2_graddesc_student.ipynb) \]
+  - Tweaking and tuning feedforward neural networks \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/fnn/nn_in_keras.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut3_intro_keras_student.ipynb)\]
+- Foundations of natural language processing (NLP)
+  - NLP pre-processing pipeline, bag of words model, and extensions \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/nlp_foundations.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut4_NLP_pipeline_student.ipynb)\]
+  - Word embeddings and the Word-to-Vec algorithm \[[W2V demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/word-2-vec.ipynb), [W2V from scratch](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/w2v_from_scratch.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut5_embeddings_student.ipynb)\]
 - Recurrent neural networks (RNNs)
-  - Processing sequential data using auto-regressive and state-space models
-  - Recurrent cells and recurrent neural networks
-  - Training RNNs using backpropagation through time
-  - Modern RNN architectures
+  - Processing sequential data using auto-regressive and state-space models 
+  - Recurrent cells and recurrent neural networks \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/rnn_foundations.ipynb) \] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut6_LSTM_student.ipynb)\]
+  - RNN training using backpropagation through time
+  - Modern RNN architectures \[[lstm demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/lstm_foundations.ipynb), [financial forecasting demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/lstm_fin_forecasting.ipynb)\]
 - Convolutional neural networks (CNNs)
   - Computer vision primer
-  - Foundations of CNNs
+  - Foundations of CNNs \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/cnn/cnn_foundations.ipynb)\]
   - Using CNNs for text data
 - Modern NLP
-  - (NLP) Transfer learning
+  - (NLP) Transfer learning \[[sentiment analysis demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis.ipynb)\]
   - Attention mechanism
   - The transformer architecture
-- Conclusions  
+- Conclusions 
 
 
 ## Repository organization
-The repository provides Jupyter notebooks that revisit concepts covered in the lecture and demonstrate their application using Python. The corresponding notebooks are available in the folder **demos**. 
-
-Another folder called **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The exercises relate to the lecture chapter and the demo notebooks. The idea of the exercises is that students try to **solve the programming tasks themselves; possibly together with peers in their study group**. 
+The repository provides Jupyter notebooks that revisit concepts covered in the lecture and demonstrate their application using Python. The corresponding notebooks are available in the folder **demos**. The folder **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The exercises relate to lecture chapters and the demo notebooks. The idea of the exercises is that students try to **solve the programming tasks themselves; possibly together with peers in their study group**. 
 
 More detailed information on the coures format, organization, and logistics is available on the [ADAMS Moodle page](https://moodle.hu-berlin.de/course/view.php?id=103703). That page also provides slides for lecture sessions and video recordings. 
