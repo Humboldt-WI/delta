@@ -40,8 +40,7 @@ The outline of the module is as follows:<br>
 - Convolutional neural networks (CNNs)
   - Computer vision primer
   - Foundations of CNNs \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/cnn/cnn_foundations.ipynb)\]
-  - Using CNNs for text data \[[external demo from MLMastery.com]([https://github.com/Humboldt-WI/adams/blob/master/demos/cnn/cnn_foundations.ipynb](https://machinelearningmastery.com/best-practices-document-classification-deep-learning)![grafik](https://user-images.githubusercontent.com/19682976/176655873-b786e6f1-d04c-4469-87f2-34b5ca81deca.png)
-)\]
+  - Using CNNs for text data \[[external demo from MLMastery.com](https://machinelearningmastery.com/best-practices-document-classification-deep-learning/)\]
 - Modern NLP
   - (NLP) Transfer learning \[[sentiment analysis demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis.ipynb)\]
   - Attention mechanism
