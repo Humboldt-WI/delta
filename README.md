@@ -44,7 +44,7 @@ The outline of the module is as follows:<br>
 - Modern NLP
   - (NLP) Transfer learning \[[sentiment analysis demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis.ipynb)\]
   - Attention mechanism
-  - The transformer architecture
+  - The transformer architecture \[[BERT demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis_bert.ipynb)\]
 - Conclusions 
 
 
