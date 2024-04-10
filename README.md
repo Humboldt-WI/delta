@@ -1,4 +1,4 @@
-# Advanced Data Analytics for Management Support
+# Deep Learning for Text Analytics
 
 The master module Advanced Data Analytics for Management Support (ADAMS) is offered at the [Humboldt-University of Berlin](htpps://www.hu-berlin.de) 
 by the [Chair of Information Systems](https://www.wiwi.hu-berlin.de/de/professuren/bwl/wi). 
