@@ -19,7 +19,7 @@ While the time and location of lecture and tutorial sessions may be subject to c
 Lecture: Thu, 10.15 - 11.45,<br>
 Q&A Session: Tue, 16:15 - 17:45,<br>
 Exercise 1: Thu, 12.15 - 13.45,<br>
-Exercise 2: Fri, 10.15 - 11.15
+Exercise 2: Fri, 10.15 - 11.45
 
 ## Outline
 The outline of the module is as follows:<br>
