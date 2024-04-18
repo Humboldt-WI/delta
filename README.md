@@ -16,9 +16,9 @@ We greatly appreciate the provision of this great content and highlight its cont
 The module is offered every summer semester. Weekly sessions split into a two hour lecture session and a two hour tutorial session. The lecture introduces relevant concepts in the scope of the course. Lecture sessions are accompanied by Jupyter notebooks that demonstrate these concepts using the Python programming language and various Python libraries for deep learning and NLP. Providing working examples and executable codes, the Jupyter notebooks are meant for self-study. To deepen their understanding of the covered topics, students receive programming tasks as homework. The tutorial sessions provide a forum to discuss solutions to the homework task as well as general questions. 
 
 While the time and location of lecture and tutorial sessions may be subject to change, we aim at offering lecture/tutorial sessions as follows:
-Lecture: Thu, 10.15 - 11.45 
-Q&A Session: Tue, 16:15 - 17:45
-Exercise 1: Thu, 12.15 - 13.45
+Lecture: Thu, 10.15 - 11.45,<br>
+Q&A Session: Tue, 16:15 - 17:45,<br>
+Exercise 1: Thu, 12.15 - 13.45,<br>
 Exercise 2: Fri, 10.15 - 11.15
 
 ## Outline
