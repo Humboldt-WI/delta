@@ -1,6 +1,6 @@
 # Deep Learning for Text Analytics
 
-The master module Deep Learnign for Text Analytics (DELTA) is offered at the [Humboldt-University of Berlin](htpps://www.hu-berlin.de) 
+The master module Deep Learning for Text Analytics (DELTA) is offered at the [Humboldt-University of Berlin](htpps://www.hu-berlin.de) 
 by the [Chair of Information Systems](https://www.wiwi.hu-berlin.de/de/professuren/bwl/wi). 
 
 DELTA introduces students to deep learning and natural language processing. We discuss algorithmic foundations, several deep learning methodologies, and their applications in business and society. 
