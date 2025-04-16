@@ -11,7 +11,7 @@ The module draws inspiration from several excellent resources including but not 
 - [The fantastic interactive e-book Dive into Deep Learning](http://d2l.ai/index.html) 
 
 We greatly appreciate the provision of this great content and highlight its contributions to the design of DELTA. 
-
+ 
 ## Teaching format
 The module is offered every summer semester. Weekly sessions split into a two hour lecture session and a two hour tutorial session. The lecture introduces relevant concepts in the scope of the course. Lecture sessions are accompanied by Jupyter notebooks that demonstrate these concepts using the Python programming language and various Python libraries for deep learning and NLP. Providing working examples and executable codes, the Jupyter notebooks are meant for self-study. To deepen their understanding of the covered topics, students receive programming tasks as homework. The tutorial sessions provide a forum to discuss solutions to the homework task as well as general questions. 
 
