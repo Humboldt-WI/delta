@@ -22,32 +22,19 @@ Exercise 1: Thu, 12.15 - 13.45,<br>
 
 
 ## Outline
-The outline of the module is as follows:<br>
-- Introduction
-  - Course organization and logistics
-  - (Supervised) Machine learning revisited \[ [Python demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Python-Primer.ipynb), [EDA demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Pandas-and-EDA.ipynb), [SKlearn demo](https://github.com/Humboldt-WI/adams/blob/master/demos/revisit_bads_stuff/Python_Machine_Learning.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut1_recap_bads_student.ipynb)\]
-- Foundations of artificial neural networks 
-  - The perceptron model
-  - Neural network training using backpropagation and gradient descent \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/fnn/nn_foundations.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut2_graddesc_student.ipynb) \]
-  - Tweaking and tuning feedforward neural networks \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/fnn/nn_in_keras.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut3_intro_keras_student.ipynb)\]
-- Foundations of natural language processing (NLP)
-  - NLP pre-processing pipeline, bag of words model, and extensions \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/nlp_foundations.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut4_NLP_pipeline_student.ipynb)\]
-  - Word embeddings and the Word-to-Vec algorithm \[[W2V demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/word-2-vec.ipynb), [W2V from scratch](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/w2v_from_scratch.ipynb)\] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut5_embeddings_student.ipynb)\]
-- Recurrent neural networks (RNNs)
-  - Processing sequential data using auto-regressive and state-space models 
-  - Recurrent cells and recurrent neural networks \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/rnn_foundations.ipynb) \] \[[exercise](https://github.com/Humboldt-WI/adams/blob/master/exercises/tut6_LSTM_student.ipynb)\]
-  - RNN training using backpropagation through time
-  - Modern RNN architectures \[[lstm demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/lstm_foundations.ipynb), [financial forecasting demo](https://github.com/Humboldt-WI/adams/blob/master/demos/rnn/lstm_fin_forecasting.ipynb)\]
-- Convolutional neural networks (CNNs)
-  - Computer vision primer
-  - Foundations of CNNs \[[demo](https://github.com/Humboldt-WI/adams/blob/master/demos/cnn/cnn_foundations.ipynb)\]
-  - Using CNNs for text data \[[external demo from MLMastery.com](https://machinelearningmastery.com/best-practices-document-classification-deep-learning/)\]
-- Modern NLP
-  - (NLP) Transfer learning \[[sentiment analysis demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis.ipynb)\]
-  - Attention mechanism
-  - The transformer architecture \[[BERT demo](https://github.com/Humboldt-WI/adams/blob/master/demos/nlp/sentiment_analysis_bert.ipynb)\]
-- Conclusions 
+Topics covered in DELTA include but are not limited to:
 
+- Fundamentals of artificial neural networks
+- Fundamentals of natural language processing (NLP)
+    - NLP tasks and use cases
+    - Early forms of NLP (dictionaries, bag of word model)
+    - Word embeddings
+- Neural network architectures for sequential and unstructured data
+    - Recurrent and gated neural networks
+    - RNNs for language modeling
+- State-of-the-art NLP approaches
+    - Attention and Transformers
+    - NLP transfer learning
 
 ## Repository organization
 The repository provides Jupyter notebooks that revisit concepts covered in the lecture in the folder **lecture_codes**. Additionally, the folder **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The notebooks starts with a short demo, which serves revision purposes. The remaining part of the exercise notebooks are related to **programming tasks, which the students should try to solve themselves; possibly together with peers in their study group**. 
