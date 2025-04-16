@@ -19,7 +19,7 @@ While the time and location of lecture and tutorial sessions may be subject to c
 Lecture: Thu, 10.15 - 11.45,<br>
 Q&A Session: Tue, 16:15 - 17:45,<br>
 Exercise 1: Thu, 12.15 - 13.45,<br>
-Exercise 2: Fri, 10.15 - 11.45
+
 
 ## Outline
 The outline of the module is as follows:<br>
@@ -50,6 +50,6 @@ The outline of the module is as follows:<br>
 
 
 ## Repository organization
-The repository provides Jupyter notebooks that revisit concepts covered in the lecture and demonstrate their application using Python. The corresponding notebooks are available in the folder **demos**. The folder **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The exercises relate to lecture chapters and the demo notebooks. The idea of the exercises is that students try to **solve the programming tasks themselves; possibly together with peers in their study group**. 
+The repository provides Jupyter notebooks that revisit concepts covered in the lecture in the folder **lecture_codes**. Additionally, the folder **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The notebooks starts with a short demo, which serves revision purposes. The remaining part of the exercise notebooks are related to **programming tasks, which the students should try to solve themselves; possibly together with peers in their study group**. 
 
-More detailed information on the coures format, organization, and logistics is available on the [DELTA Moodle page](https://moodle.hu-berlin.de/course/view.php?id=126682). That page also provides slides for lecture sessions and video recordings. 
+More detailed information on the coures format, organization, and logistics is available on the [DELTA Moodle page](https://moodle.hu-berlin.de/course/view.php?id=134441). That page also provides slides for lecture sessions and video recordings. 
