@@ -17,7 +17,7 @@ The module is offered every summer semester. Weekly sessions split into a two ho
 
 While the time and location of lecture and tutorial sessions may be subject to change, we aim at offering lecture/tutorial sessions as follows:
 Lecture: Thu, 10.15 - 11.45,<br>
-Q&A Session: Tue, 16:15 - 17:45,<br>
+Q&A Session: Tue, 16:15 - 17:45,<br> 
 Exercise 1: Thu, 12.15 - 13.45,<br>
 
 
