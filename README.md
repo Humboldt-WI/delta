@@ -36,7 +36,7 @@ Topics covered in DELTA include but are not limited to:
     - NLP transfer learning
 
 ## Repository organization
-The repository provides the slides used in lecture sessions in the folder **lecture_slides**. Jupyter notebooks that revisit the corresponding concepts are provided in the folder **lecture_codes**. Interested students are invited to draw on these resources for self-study.
+The repository provides the slides used in lecture sessions in the folder **lecture_slides**. 
 The folder **tutorial_notebooks** provides the Jupyter notebooks that we discuss in the tutorial sessions. The notebooks starts with a short demo, which serves revision purposes. Their remaining part suggests **programming tasks, which the students should try to solve themselves; possibly together with peers in their study group**. 
 
 More detailed information on the course format, organization, and logistics is available on the [DELTA Moodle page](https://moodle.hu-berlin.de/course/view.php?id=140923). That page also provides slides for lecture sessions and video recordings. 
