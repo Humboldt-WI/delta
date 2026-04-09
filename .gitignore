@@ -1,2 +1,4 @@
 # do not clone checkpoints
 .ipynb_checkpoints/
+
+internal/
