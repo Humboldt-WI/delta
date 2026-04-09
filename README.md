@@ -1,6 +1,6 @@
 # Deep Learning for Text Analytics
 
-The master module Deep Learning for Text Analytics (DELTA) is offered at the [Humboldt-University of Berlin](htpps://www.hu-berlin.de) 
+The MSc module *Deep Learning for Text Analytics* (DELTA) is offered at the [Humboldt-University of Berlin](htpps://www.hu-berlin.de) 
 by the [Chair of Information Systems](https://www.wiwi.hu-berlin.de/de/professuren/bwl/wi). 
 
 DELTA introduces students to deep learning and natural language processing. We discuss algorithmic foundations, several deep learning methodologies, and their applications in business and society. 
@@ -10,15 +10,14 @@ The module draws inspiration from several excellent resources including but not 
 - [Several awesome educational posts in Jay Alammar's blog](http://jalammar.github.io/)
 - [The fantastic interactive e-book Dive into Deep Learning](http://d2l.ai/index.html) 
 
-We greatly appreciate the provision of this great content and highlight its contributions to the design of DELTA.
+We greatly appreciate the provision of this excellent content and highlight its contributions to the design of DELTA.
  
 ## Teaching format
-The module is offered every summer semester. Weekly sessions split into a two hour lecture session and a two hour tutorial session. The lecture introduces relevant concepts in the scope of the course. Lecture sessions are accompanied by Jupyter notebooks that demonstrate these concepts using the Python programming language and various Python libraries for deep learning and NLP. Providing working examples and executable codes, the Jupyter notebooks are meant for self-study. To deepen their understanding of the covered topics, students receive programming tasks as homework. The tutorial sessions provide a forum to discuss solutions to the homework task as well as general questions. 
+The module is offered every summer semester. Weekly sessions split into a two hour lecture session and a two hour tutorial session. The lecture introduces relevant concepts. Tutorial sessions illustrate these concepts and provide exercises for students to practice their deep learning skills. 
 
-While the time and location of lecture and tutorial sessions may be subject to change, we aim at offering lecture/tutorial sessions as follows:
-Lecture: Thu, 10.15 - 11.45,<br>
-Q&A Session: Tue, 16:15 - 17:45,<br> 
-Exercise 1: Thu, 12.15 - 13.45,<br>
+Schedule for summer 2026:
+Lecture: Thu, 10.15 - 11.45, room 202<br>
+Tutorial: Tue, 12:15 - 14:45, room 22<br> 
 
 
 ## Outline
@@ -37,6 +36,7 @@ Topics covered in DELTA include but are not limited to:
     - NLP transfer learning
 
 ## Repository organization
-The repository provides Jupyter notebooks that revisit concepts covered in the lecture in the folder **lecture_codes**. Additionally, the folder **exercises** provides another set of Jupyter notebooks, which task students to practice their Python and Deep Learning skills on programming exercises. The notebooks starts with a short demo, which serves revision purposes. The remaining part of the exercise notebooks are related to **programming tasks, which the students should try to solve themselves; possibly together with peers in their study group**. 
+The repository provides the slides used in lecture sessions in the folder **lecture_slides**. Jupyter notebooks that revisit the corresponding concepts are provided in the folder **lecture_codes**. Interested students are invited to draw on these resources for self-study.
+The folder **tutorial_notebooks** provides the Jupyter notebooks that we discuss in the tutorial sessions. The notebooks starts with a short demo, which serves revision purposes. Their remaining part suggests **programming tasks, which the students should try to solve themselves; possibly together with peers in their study group**. 
 
-More detailed information on the coures format, organization, and logistics is available on the [DELTA Moodle page](https://moodle.hu-berlin.de/course/view.php?id=134441). That page also provides slides for lecture sessions and video recordings. 
+More detailed information on the course format, organization, and logistics is available on the [DELTA Moodle page](https://moodle.hu-berlin.de/course/view.php?id=140923). That page also provides slides for lecture sessions and video recordings. 
